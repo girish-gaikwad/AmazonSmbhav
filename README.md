@@ -7,7 +7,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.7-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
 
-[Live Demo](https://amazon-smbhav-git-main-dineshdinz12s-projects.vercel.app/) | [Documentation](#documentation) | [Features](#features)
+[Live Demo](https://amazon-smbhav-axe8migoj-girish-gaikwads-projects.vercel.app/) | [Documentation](#documentation) | [Features](#features)
 
 </div>
 
@@ -236,4 +236,4 @@ Contributors: <a href="https://github.com/girish-gaikwad">Girish</a> , <a href="
 
 </div>
 
-**Live**:https://amazon-smbhav-git-main-girish-gaikwad-projects.vercel.app/
+**Live**:https://amazon-smbhav-axe8migoj-girish-gaikwads-projects.vercel.app/
