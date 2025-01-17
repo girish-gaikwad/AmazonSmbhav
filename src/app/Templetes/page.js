@@ -12,6 +12,7 @@ import {
 } from "lucide-react";
 import { Dialog, DialogContent, DialogOverlay } from "@/components/ui/dialog";
 import { DialogPortal } from "@radix-ui/react-dialog";
+import Image from "next/image";
 
 const documents = [
   {
@@ -268,9 +269,11 @@ const DocumentPreview = ({ isOpen, document, onClose }) => {
               {/* Left Section - Preview */}
               <div className="w-full md:w-1/2 space-y-4">
                 <div className="aspect-video bg-white/5 rounded-lg overflow-hidden">
-                  <img
-                    src="/api/placeholder/400/300"
+                  <Image
+                    src="/dummydoc.png"
                     alt="Document Preview"
+                    height={800}
+                    width={800}
                     className="w-full h-full object-cover"
                   />
                 </div>
