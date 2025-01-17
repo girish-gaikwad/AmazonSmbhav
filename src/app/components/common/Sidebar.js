@@ -1,7 +1,7 @@
 // components/common/Sidebar.js
 "use client";
 
-import { BarChart2, DollarSign, Menu, Settings,FileSearch,TrendingUpDown,Truck, ShoppingBag, ShoppingCart, TrendingUp, Users } from "lucide-react";
+import { BarChart2, DollarSign, Menu, Settings,FileSearch,TrendingUpDown,Truck, ShoppingBag, ShoppingCart, TrendingUp, Users, NotepadTextDashed } from "lucide-react";
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import Link from "next/link";
@@ -22,6 +22,7 @@ const SIDEBAR_ITEMS = [
   { name: "Logistic-suggestions", icon: Truck, color: "#9333EA", href: "/Logistic-suggestions" },
   { name: "Demand-forecasting", icon: TrendingUpDown, color: "#EF4444", href: "/Demand-forecasting" },
   { name: "Compliance", icon: FileSearch, color: "#14B8A6", href: "/Compilence" },
+  { name: "Doc Hub", icon: NotepadTextDashed , color: "#3B82F6", href: "/Templetes" },
   { name: "Settings", icon: Settings, color: "#6EE7B7", href: "/settings" },
 ];
 
