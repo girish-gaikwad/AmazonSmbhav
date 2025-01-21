@@ -236,4 +236,4 @@ Contributors: <a href="https://github.com/girish-gaikwad">Girish</a> , <a href="
 
 </div>
 
-**Live**:https://amazon-smbhav-axe8migoj-girish-gaikwads-projects.vercel.app/
+**Live**:https://globalxport.vercel.app/
